@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles.css */
+body {
+    
+}
+
+/* Form Styles */
+form {
+    background-color: #ffffff; /* Normal mode background color */
+}
+
+.dark-mode form {
+    background-color: #333333; /* Dark mode background color */
+    color: #ffffff; /* Dark mode text color */
+}
